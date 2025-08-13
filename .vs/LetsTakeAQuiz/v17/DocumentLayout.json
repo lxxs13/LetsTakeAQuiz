@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollo\\LetsTakeAQuiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\models\\dtos\\categoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:models\\dtos\\categoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\services\\questionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:services\\questionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\interfaces\\iquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:interfaces\\iquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\models\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:models\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\models\\dtos\\quizprocessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:models\\dtos\\quizprocessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\interfaces\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:interfaces\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\models\\dtos\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:models\\dtos\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|c:\\desarrollo\\letstakeaquiz\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877740D4-FDC2-49C4-A417-164C508D1304}|GeekQuiz.csproj|solutionrelative:dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Models\\Question.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\Question.cs",
+              "RelativeToolTip": "Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T01:28:17.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:51:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "Controllers\\PlayersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:42:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Services\\PlayerService.cs",
+              "RelativeDocumentMoniker": "Services\\PlayerService.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Services\\PlayerService.cs",
+              "RelativeToolTip": "Services\\PlayerService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:34:14.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerDTO.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\DTOs\\PlayerDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\PlayerDTO.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\DTOs\\PlayerDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\PlayerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:31:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPlayer.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Interfaces\\IPlayer.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPlayer.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Interfaces\\IPlayer.cs",
+              "RelativeToolTip": "Interfaces\\IPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:31:35.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuestionDTO.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\DTOs\\QuestionDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\QuestionDTO.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\DTOs\\QuestionDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\QuestionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:59:37.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DependencyInjection.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\DependencyInjection.cs",
+              "RelativeToolTip": "DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:04:53.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesService.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Services\\CategoriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoriesService.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Services\\CategoriesService.cs",
+              "RelativeToolTip": "Services\\CategoriesService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAtwFIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:56:46.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesDTO.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\DTOs\\CategoriesDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CategoriesDTO.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\DTOs\\CategoriesDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\CategoriesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:55:36.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategory.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Interfaces\\ICategory.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICategory.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Interfaces\\ICategory.cs",
+              "RelativeToolTip": "Interfaces\\ICategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:55:00.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:54:38.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuizProcessDTO.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\DTOs\\QuizProcessDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\QuizProcessDTO.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Models\\DTOs\\QuizProcessDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\QuizProcessDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T04:32:17.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T00:59:44.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IQuestion.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Interfaces\\IQuestion.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IQuestion.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Interfaces\\IQuestion.cs",
+              "RelativeToolTip": "Interfaces\\IQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T01:02:20.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuestionsService.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\LetsTakeAQuiz\\Services\\QuestionsService.cs",
+              "RelativeDocumentMoniker": "Services\\QuestionsService.cs",
+              "ToolTip": "C:\\Desarrollo\\LetsTakeAQuiz\\Services\\QuestionsService.cs",
+              "RelativeToolTip": "Services\\QuestionsService.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAkwLUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T01:01:41.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

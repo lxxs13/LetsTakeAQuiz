@@ -1,0 +1,201 @@
+[
+  {
+    "ContainingType": "GeekQuiz.Controllers.CategoriesController",
+    "Method": "CreateCategory",
+    "RelativePath": "api/Categories/CreateCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "GeekQuiz.Models.DTOs.CategoriesDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.CategoriesController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/Categories/DeleteCategory/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.CategoriesController",
+    "Method": "GetCategories",
+    "RelativePath": "api/Categories/GetCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.CategoriesController",
+    "Method": "GetCategoriesByStatus",
+    "RelativePath": "api/Categories/GetCategoriesByStatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.CategoriesController",
+    "Method": "UpdateCategory",
+    "RelativePath": "api/Categories/UpdateCategory/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "GeekQuiz.Models.DTOs.CategoriesDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.CategoriesController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/Categories/UpdateStatus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ids",
+        "Type": "System.Int32[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.PlayersController",
+    "Method": "GetTopPlayers",
+    "RelativePath": "api/Players/GetTopPlayers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.QuestionsController",
+    "Method": "DeleteQuestion",
+    "RelativePath": "api/Questions/DeleteQuestion/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.QuestionsController",
+    "Method": "GetQuestionList",
+    "RelativePath": "api/Questions/GetQuestionList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "questionLength",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.QuestionsController",
+    "Method": "GetQuestions",
+    "RelativePath": "api/Questions/GetQuestions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "categoryId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.QuestionsController",
+    "Method": "GetResult",
+    "RelativePath": "api/Questions/GetResult",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quiz",
+        "Type": "GeekQuiz.Models.DTOs.QuizProcessDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GeekQuiz.Controllers.QuestionsController",
+    "Method": "PostQuestion",
+    "RelativePath": "api/Questions/PostQuestion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "questionInfo",
+        "Type": "GeekQuiz.Models.DTOs.QuestionInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

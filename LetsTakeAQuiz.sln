@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekQuiz", "GeekQuiz.csproj", "{877740D4-FDC2-49C4-A417-164C508D1304}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Quizzlet", "..\Quizzlet\Quizzlet.sqlproj", "{6883B337-DC38-4DB9-B410-291933B1ABA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877740D4-FDC2-49C4-A417-164C508D1304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877740D4-FDC2-49C4-A417-164C508D1304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877740D4-FDC2-49C4-A417-164C508D1304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877740D4-FDC2-49C4-A417-164C508D1304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6883B337-DC38-4DB9-B410-291933B1ABA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6883B337-DC38-4DB9-B410-291933B1ABA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6883B337-DC38-4DB9-B410-291933B1ABA8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6883B337-DC38-4DB9-B410-291933B1ABA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6883B337-DC38-4DB9-B410-291933B1ABA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6883B337-DC38-4DB9-B410-291933B1ABA8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F04564BF-47EF-4874-A5C9-F55FC4C73806}
+	EndGlobalSection
+EndGlobal
